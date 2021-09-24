@@ -132,24 +132,24 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"} #TODO: diría que no tenemos esto.
+ - {link: "https://twitter.com/GDGSantiagoES", icon: "twitter"}
+ - {link: "https://facebook.com/GDGSantiagoES", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Ligazóns"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://gdg.community.dev/gdg-santiago/", text: "GDG Community Dev: GDG Santiago"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgsantiagodecompostela@gmail.com", text: "gdgsantiagodecompostela@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conduta"}
 
 # Blog
 blogTitle: "Últimas novas"
@@ -160,7 +160,7 @@ discusShortName: "devfestsantiago"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Sobre nós"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
