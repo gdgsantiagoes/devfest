@@ -23,7 +23,7 @@ Calquer persoa que viole ditas regras poderá ser sancionada ou expulsada pola o
 a vulneración. 
 
 En caso de ter calquer tipo de problema, non dubidedes en contactar inmediatamente con alguén da organización.
-Dada a natureza *online* dos eventos deste ano, sempre haberá moderadores en línea nas charlas e talleres para 
+Dada a natureza *online* dos eventos deste ano, sempre haberá moderadores en liña nas charlas e talleres para 
 axudar aos poñentes pero, tamén, para atender aos participantes e xestionar calquer interacción indeseada.
 
 Finalmente, prégase manter un comportamiento respetuoso de cara aos demáis para lograr establecer conxuntamente
