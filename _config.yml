@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2021"
 eventDate: "Outubro - Novembro, 2021"
-typeoutTextValues: '"", "Season", "Santiago de Compostela"'
+typeoutTextValues: '"", "Santiago de Compostela"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Ser poñente"}
