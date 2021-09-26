@@ -1,20 +1,36 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Código de conduta
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__É obligatorio que toda a xente que participe nos eventos enmarcados dentro do *Dev Fest 2021 Santiago de Compostela*gdg acepten o seguinte código de conduta. A organización comprométese a facer cumplir este código ao longo dos eventos, confiando na colaboración conxunta para tratar de manter un espazo seguro.__
 
+#### As nosas normas
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+*Dev Fest 2021 Santiago de Compostela* ofrece unha experiencia libre de abusos, con **tolerancia cero** frente aos mesmos. 
+Nestes abusos inclúense de forma explícita: comentarios ofensivos relacionados co xénero, orientación sexual,
+discapacidade, raza, relixión, apariencia, uso de imaxes ou contidos sensibles (p.e.: contido sexual, racista, etc.),
+intimidación, acoso, realización de fotografías ou grabación dun abuso e as interrupcións reiteradas e con
+natureza maliciosa en charlas/talleres. En base ao anterior, non é apropiado e rexéitase por completo o uso de material 
+ou linguaxe ofensivo tanto nas charlas como nos talleres, así como nas RRSS relacionadas cos eventos. 
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Estas normas deberán ser cumplidas por calquer participante do evento sen importar o seu rol dentro do mesmo. Son 
+normas comúns, polo tanto, para asistentes, poñentes, patrocinadores e colaboradores. 
 
+Calquer persoa que viole ditas regras poderá ser sancionada ou expulsada pola organización do evento onde se produza
+a vulneración. 
 
-######Contacts:
+En caso de ter calquer tipo de problema, non dubidedes en contactar inmediatamente con alguén da organización.
+Dada a natureza *online* dos eventos deste ano, sempre haberá moderadores en línea nas charlas e talleres para 
+axudar aos poñentes pero, tamén, para atender aos participantes e xestionar calquer interacción indeseada.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+Finalmente, prégase manter un comportamiento respetuoso de cara aos demáis para lograr establecer conxuntamente
+un espazo seguro e libre de abusos.
+
+##### Contacto
+
+- GDG Santiago, [gdgsantiagodecompostela@gmail.com](mailto:gdgsantiagodecompostela@gmail.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
