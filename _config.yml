@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Santiago de Compostela"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Ser poñente"}
- - {permalink: "/#tickets", text: "Mercar entradas"}
+ - {link: "https://gdg.community.dev/gdg-santiago/", text: "Inscríbete gratis"} #TODO: change by the event link
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
