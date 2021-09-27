@@ -21,9 +21,9 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Santiago de Compostela"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "GDG Santiago"
+organizerAlternateName: "Google Developer Group Santiago"
+organizerDescription: "Google Developer Group de Santiago de Compostela. Organización sen ánimo de lucro para compartir coñecemento e xerar comunidade."
 organizerEmail: "gdgsantiagodecompostela@gmail.com"
 organizerLogo: "/img/seo/logo_landscape.png"
 organizerLink: "https://gdg.community.dev/gdg-santiago/"
@@ -126,7 +126,7 @@ rockstarSpeakersButtonText: "See all speakers"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "E logo?"
 twitterHashTag: "devfest #devfestsantiago"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000" #TODO: ??
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -141,6 +141,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
+ - {link: "https://www.linkedin.com/company/gdgsantiago/", icon: "linkedin"}
+ - {link: "https://github.com/gdgsantiagoes", icon: "github"}
  - {link: "https://twitter.com/GDGSantiagoES", icon: "twitter"}
  - {link: "https://facebook.com/GDGSantiagoES", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"} #TODO: delete it?
