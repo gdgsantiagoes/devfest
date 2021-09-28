@@ -3,6 +3,7 @@ layout: post
 title:  "Call for Papers (CFP)"
 date:   2021-09-28 09:00:00
 isStaticPost: false
+image: dev-fest-21-bg.png
 ---
 
 O Dev Fest 2021 organizado polo GDG Santiago englobará unha serie de **eventos en liña** que terán lugar 

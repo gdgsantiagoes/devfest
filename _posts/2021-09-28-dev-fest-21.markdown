@@ -3,6 +3,7 @@ layout: post
 title:  "Dev Fest 2021: Novo formato"
 date:   2021-09-28 08:00:00
 isStaticPost: false
+image: dev-fest-21-bg.png
 ---
 
 Tras un ano de prácticamente total inactividade por parte do GDG Santiago, voltamos coa nova edición do Dev Fest. Este ano debido
