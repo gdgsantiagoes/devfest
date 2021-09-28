@@ -89,7 +89,7 @@ aboutBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas novas"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -163,7 +163,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Últimas novas"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestsantiago"
 
 # Speakers List Block
