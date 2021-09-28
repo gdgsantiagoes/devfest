@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2021"
-eventDate: "Outubro - Novembro, 2021"
+eventDate: "Outubro - Decembro, 2021"
 typeoutTextValues: '"", "Santiago de Compostela"'
 typeoutFallback: "Season"
 heroButtons:
