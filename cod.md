@@ -33,4 +33,4 @@ un espazo seguro e libre de abusos.
 
 - GDG Santiago, [gdgsantiagodecompostela@gmail.com](mailto:gdgsantiagodecompostela@gmail.com)
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/dev-fest-21-bg.jpg" style="display:none">
