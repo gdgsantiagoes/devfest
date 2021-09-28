@@ -50,9 +50,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Loxística"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Ser poñente"}
+ - {link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Ser poñente"}
+ - {link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "Outubro - Novembro, 2021"
 typeoutTextValues: '"", "Santiago de Compostela"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Ser poñente"}
+ - {link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
  - {link: "https://gdg.community.dev/gdg-santiago/", text: "Inscríbete gratis"} #TODO: change by the event link
 
 # About Block

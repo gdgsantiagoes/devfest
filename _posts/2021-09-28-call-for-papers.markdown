@@ -10,7 +10,7 @@ entre os meses de **outubro, novembro e decembro** de 2021.
 
 Se queres formar parte destos eventos non dudes en contactar con nós!
 
-#### Qué tipo de perfís acostuman ter os poñentes no DevFest?
+#### Que tipo de perfís acostuman ter os poñentes no DevFest?
 
 - desenvolvedores
 - empresas adicadas ao mundo do software/hardware
@@ -21,7 +21,7 @@ Se queres formar parte destos eventos non dudes en contactar con nós!
 En caso de non atoparte en ningún deses grupos, non esquezas que é algo orientativo. Se cres que tes algo
 que compartir coa comunidade, non dubides en contactar!
 
-#### Qué se pode atopar no Dev Fest?
+#### Que se pode atopar no Dev Fest?
 
 Dende a organización tratamos de buscar eventos diversos que non se estanquen só nunha tecnoloxía ou temática.
 Tampouco limitamos os eventos ao ámbito técnico pois pensamos que hai charlas sobre temas transversáis que
@@ -31,7 +31,7 @@ Por tanto, a única limitación dentro da temática é que teña algún tipo de 
 xa sexa un taller sobre desenvolvemento na nube con GCP como unha charla sobre cómo implementar de maneira
 saudável o traballo remoto.
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Envíanos as túas propostas [eiquí](https://forms.gle/YeoP2Dm5Yg8RzKAJ8) 🤗
 __Deadline__ 
 
 Dada a natureza do Dev Fest deste ano, o CFP non se pechará ata o fin da temporada de Dev Fest (decembro 2021).
