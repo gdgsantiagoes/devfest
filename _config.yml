@@ -80,6 +80,12 @@ aboutBlock:
  - {title: "Talleres", image: "training.png", text: "Talleres onde poderás poñerte mans á obra no teu propio PC
  de forma guiada e dinámica." }
 
+
+underConstructionImage: "hero.jpg"
+underConstructionTitle: "En construcción<typeout>"
+underConstructionValues: '"...", ", amodiño"'
+underConstructionFallback: ", amodiño"
+
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
 #statisticBlock:
@@ -129,9 +135,9 @@ twitterHashTag: "devfest #devfestsantiago"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000" #TODO: ??
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "quero ser patrocinador!"
 
 # Subscribe Block
 #subscribeImage: "subscribe.jpg"
