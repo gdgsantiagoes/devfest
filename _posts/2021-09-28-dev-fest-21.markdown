@@ -6,17 +6,17 @@ isStaticPost: false
 image: dev-fest-21-bg.png
 ---
 
-Tras un ano de prácticamente total inactividade por parte do GDG Santiago, voltamos coa nova edición do Dev Fest. Este ano debido
-ás medidas sanitarias que todavía existen na nosa cidade, Santiago de Compostela, a organización optou por levar a
+Tras un ano de practicamente total inactividade por parte do GDG Santiago, voltamos coa nova edición do Dev Fest. Este ano debido
+ás medidas sanitarias que aínda existen na nosa cidade, Santiago de Compostela, a organización optou por levar a
 cabo o evento dunha forma un tanto distinta.
 
 O Dev Fest 2021 que propoñemos dende o GDG Santiago basearase nun conxunto de **eventos en liña**,
 charlas ou talleres, durante os meses característicos do Dev Fest: **outubro, novembro e decembro**. Con esta proposta
-pretendemos que, pese a non poder reunirnos de maneira multitudinaria como era o habitual en edicións pasadas, podamos
+pretendemos que, pese a non nos podermos reunir de maneira multitudinaria como era o habitual en edicións pasadas, podamos
 compartir tempo de calidade por medio dunha serie de eventos todo o amenos e interactivos posible para compensar a
 necesidade de empregar un formato *online*.
 
-Estade atentos ás nosas redes para poder estar ao tanto dos eventos tan pronto se anuncien! 😃
+Estade atentos ás nosas redes para poderdes estar ao tanto dos eventos tan pronto se anuncien! 😃
 
 - [Instagram](http://www.instagram.com/GDGSantiagoES)
 - [Twitter](http://www.twitter.com/GDGSantiagoES)
