@@ -1,0 +1,114 @@
+-
+  id: 0
+  name: "Silvia"
+  surname: "Alcaraz"
+  title: "Investigadora predoutoral FPI en CiTIUS"
+  thumbnailUrl: SilviaAlcaraz.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/silviaralcaraz"}
+    - {name: "github", link: "https://github.com/silviaralcaraz"}
+    - {name: "linkedin", link: "https://linkedin.com/in/silviaralcaraz"}
+-
+  id: 1
+  name: "Cristina"
+  surname: "Barreiro"
+  title: "Enxeñeira Android en Spotify"
+  thumbnailUrl: CrisBarreiro.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/CrisBarreiro_"}
+    - {name: "github", link: "https://github.com/CrisBarreiro"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/crisbarreiro"}
+-
+  id: 2
+  name: "Alberto"
+  surname: "Doval"
+  thumbnailUrl: AlbertoDoval.png
+  title: "CTO Councilbox | Cofundador de Cocodin"
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/alberto_dovalin"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/albertodoval"}
+
+-
+  id: 3
+  name: "Efrén"
+  surname: "de la Fuente"
+  thumbnailUrl: no-photo.jpg
+  title: "Project Manager en Councilbox"
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/dl_efren" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/efren-de-la-fuente"}
+-
+  id: 4
+  name: "María Luz"
+  surname: "Mosteiro"
+  title: "Desenvolvedora backend en Idealista"
+  thumbnailUrl: MariaLuzMosteiro.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/mlmosteiro" }
+    - { name: "github", link: "https://github.com/mlmosteiro" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/marialuzmosteiro"}
+-
+  id: 5
+  name: "Cristina"
+  surname: "Pampín"
+  title: "Desenvolvedora frontend | Maestra"
+  thumbnailUrl: CristinaPampin.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/cristina_pampin" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cristinarivaspampin"}
+-
+  id: 6
+  name: "Manuel"
+  surname: "Simón"
+  title: "Consultor experto en Ednon"
+  thumbnailUrl: ManuelSimon.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/msnovoa" }
+    - {name: "github", link: "https://github.com/manuelsimon"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/msimonnovoa"}
+-
+  id: 7
+  name: "Joaquín"
+  surname: "Triñanes"
+  title: "Investigador predoutoral en CiTIUS"
+  thumbnailUrl: JoaquinTrinanes.jpg
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "github", link: "https://github.com/JoaquinTrinanes"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/JoaquinTrinanes"}
+-
+  id: 8
+  name: "Rosa"
+  surname: "Veiga"
+  title: "Desenvolvedora de firmware en Prodimar"
+  thumbnailUrl: RosaVeiga.png
+  team: true
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group" }
+  social:
+    - { name: "twitter", link: "https://twitter.com/rossallycious" }
+    - {name: "github", link: "https://github.com/rousveiga"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/rosa-elena-veiga-otero-b36450116"}

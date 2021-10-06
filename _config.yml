@@ -58,12 +58,12 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2021"
 eventDate: "Outubro - Decembro, 2021"
-typeoutTextValues: '"", "Santiago de Compostela"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "Connect", "Santiago de Compostela"'
+typeoutFallback: "Connect"
 heroButtons:
  - {id: "becomeSpeaker", link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
  - {id: "buyTickets", link: "https://gdg.community.dev/gdg-santiago/", text: "Inscríbete gratis"}
-buyTicketsTooltipText: "Os eventos saerán próximamente!"
+buyTicketsTooltipText: "Os eventos sairán proximamente!"
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
@@ -132,7 +132,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "E logo?"
-twitterHashTag: "devfest #devfestsantiago"
+twitterHashTag: "devfestsantiago"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000" #TODO: ??
 
 # Partners Block
