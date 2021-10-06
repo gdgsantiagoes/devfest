@@ -1,4 +1,6 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Project Zeppelin / GDG DevFest 2021 site template
+
+>This proyect is an adaptation for **GDG Santiago DevFest 2021**
 
 ### About
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
