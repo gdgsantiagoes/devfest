@@ -59,6 +59,12 @@ layout: compress
     {% endif %} 
     <script>
         Waves.displayEffect();
+
+        $('#buyTickets').hover(
+            function(){$(".tooltiptext").css("visibility", "visible");},
+            function(){$(".tooltiptext").css("visibility", "hidden");}
+        );
+        
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'index',

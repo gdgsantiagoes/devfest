@@ -71,3 +71,17 @@
         transform: translateY(-16px);
     }
 }
+
+.tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(255, 255, 255);
+    color: #1d1d1d;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0; 
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
