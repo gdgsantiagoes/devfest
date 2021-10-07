@@ -1,0 +1,11 @@
+<!-- Begin Under Construction Section -->
+<section id="under-construction-section" class="under-construction-section">
+    <div class="content-wrapper">
+        <div class="jumbotron-black">
+            <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% assign heroText = site.underConstructionTitle | split:"<typeout>" %}
+                <h1>{{ heroText[0] }}<span id="under-construction-typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.underConstructionFallback }}</span>{{ heroText[1] }}</h1>
+            </div>
+        </div>
+</section>
+<!-- End Under Construction Section -->

@@ -59,6 +59,12 @@ layout: compress
     {% endif %} 
     <script>
         Waves.displayEffect();
+
+        $('#buyTickets').hover(
+            function(){$(".tooltiptext").css("visibility", "visible");},
+            function(){$(".tooltiptext").css("visibility", "hidden");}
+        );
+        
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'index',
@@ -142,6 +148,21 @@ layout: compress
         </script>
     {% endif %}
 
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $(function () {
+                if ($(window).width() > 767) {
+                    $("#under-construction-typeout-text").typed({
+                        strings: [{{site.underConstructionValues}}],
+                        typeSpeed: 150,
+                        backDelay: 900,
+                        loop: true
+                    });
+                }
+            });
+        });
+    </script>
     {% include schema-event.html %}
 </body>
 
