@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevFest 2021 - GDG Santiago de Compostela"
 email: "gdgsantiagodecompostela@gmail.com"
 description: ""
-baseurl: "/zeppelin"
+baseurl: "/devfest"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
