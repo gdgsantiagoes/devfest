@@ -1,4 +1,4 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Santiago", description: "GDG Santiago - Google Developers Group de Santiago de Compostela", link: "https://gdg.community.dev/gdg-santiago/", imageUrl: "logo_landscape.png"}
+    - {name: "GDG Santiago", description: "GDG Santiago - Google Developers Group de Santiago de Compostela", link: "https://gdg.community.dev/gdg-santiago/", imageUrl: "logoCadradoArriba.png"}

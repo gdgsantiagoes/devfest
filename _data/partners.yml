@@ -2,4 +2,4 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Santiago", description: "GDG Santiago - Google Developers Group de Santiago de Compostela", link: "https://gdg.community.dev/gdg-santiago/", imageUrl: "logo_landscape.png"}
+    - {name: "GDG Santiago", description: "GDG Santiago - Google Developers Group de Santiago de Compostela", link: "https://gdg.community.dev/gdg-santiago/", imageUrl: "logoCadradoArriba.png"}
