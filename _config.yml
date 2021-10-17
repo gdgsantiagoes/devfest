@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Connect", "Santiago de Compostela"'
 typeoutFallback: "Connect"
 heroButtons:
  - {id: "becomeSpeaker", link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
- - {id: "buyTickets", link: "https://gdg.community.dev/gdg-santiago/", text: "Inscríbete gratis"}
+ - {id: "buyTickets", link: "https://gdg.community.dev/events/details/google-gdg-santiago-presents-introduccion-a-bots-de-telegram-con-python/", text: "Inscríbete gratis"}
 buyTicketsTooltipText: "Os eventos sairán proximamente!"
 
 # About Block
