@@ -1,0 +1,20 @@
+-
+  id: 001
+  title: "🤖 Introducción a bots de Telegram con Python"
+  description: "Aprende a crear un bot de Telegram 🤖 que responda a mensajes y comandos, envíe teclados personalizados y pueda ser utilizado en cualquier chat (aunque no esté en él 💁).
+<p>
+Se recomienda Python básico. Veremos los bots desde 0 hasta nivel medio.
+<p>
+Aprenderemos a:
+<ul>
+<li>Manejar el BotFather
+<li>Crear, responder y usar comandos 
+<li>Añadir funcionalidades a las respuestas
+<li>Utilizar el bot desde cualquier chat
+</ul>
+<p>
+¡No dudes en acompañarnos!"
+  subtype: taller
+  speakers: [1]
+  language: gl | es
+  complexity: "Introducción" 

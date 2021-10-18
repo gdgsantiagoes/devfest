@@ -25,7 +25,7 @@ organizerName: "GDG Santiago"
 organizerAlternateName: "Google Developer Group Santiago"
 organizerDescription: "Google Developer Group de Santiago de Compostela. Organización sen ánimo de lucro para compartir coñecemento e xerar comunidade."
 organizerEmail: "gdgsantiagodecompostela@gmail.com"
-organizerLogo: "/img/seo/logo_landscape.png"
+organizerLogo: "/img/seo/logoCadradoArriba.png"
 organizerLink: "https://gdg.community.dev/gdg-santiago/"
 
 # Head
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Connect", "Santiago de Compostela"'
 typeoutFallback: "Connect"
 heroButtons:
  - {id: "becomeSpeaker", link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
- - {id: "buyTickets", link: "https://gdg.community.dev/gdg-santiago/", text: "Inscríbete gratis"}
+ - {id: "buyTickets", link: "https://gdg.community.dev/events/details/google-gdg-santiago-presents-introduccion-a-bots-de-telegram-con-python/", text: "Inscríbete gratis"}
 buyTicketsTooltipText: "Os eventos sairán proximamente!"
 
 # About Block
@@ -100,7 +100,7 @@ latestNewsTitle: "Últimas novas"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
