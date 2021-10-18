@@ -1,0 +1,12 @@
+-
+  id: 1
+  name: "Daniel"
+  surname: "Del Río Juncal"
+  title: "Enxeñeiro en informática"
+  bio: "Son enxeñeiro en informática graduado en 2020 e desenvolvedor web. Agora, son estudante do máster de Visión por Computador. <p> No 2019 durante o tempo libre fixen unha web para apuntes de todas as carreiras da USC, chamada https://apuntesusc.es (semellante a Gradox). Bótalle un ollo 😉! <p> Os meus intereses son a Intelixencia Artificial, especialmente aplicada a imaxes, pero tamén os microcontroladores como Arduino e Raspberry Pi. Tamén me gusta participar en competicións de programación como o HashCode."
+  thumbnailUrl: DanielDelRio.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "Taller", title: "Taller online" }
+  social: 
+    - {name: "linkedin", link: "www.linkedin.com/in/daniel-del-rio-juncal"}
