@@ -13,8 +13,12 @@ Aprenderemos a:
 <li>Utilizar el bot desde cualquier chat con InlineQueries (@nombrebot ...)
 </ul>
 <p>
-¡No dudes en acompañarnos!"
+¡No dudes en acompañarnos!
+<p>
+<b>Curso:</b> <a href=\"https://www.udemy.com/course/crea-un-bot-de-telegram-completo-con-python/\">Crea un Bot de Telegram completo con Python </a>
+"
   subtype: taller
   speakers: [1]
   language: gl | es
   complexity: "Introducción" 
+  presentation: "https://github.com/DanieldelRioJ/python-meme-bot"
