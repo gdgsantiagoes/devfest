@@ -1,6 +1,6 @@
 - 
   date: "2021-10-29"
-  dateReadable: "29 Octubre"
+  dateReadable: "29 Outubro"
   tracks: 
     - {title: "Taller online", color: "#90be4e"}
   timeslots:
@@ -8,4 +8,15 @@
     	startTime: "18:00",
     	endTime: "19:00",
     	sessionIds: [001]
+    }
+- 
+  date: "2021-11-26"
+  dateReadable: "26 Novembro"
+  tracks: 
+    - {title: "AskMeAnything", color: "#4690c3"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
+    	sessionIds: [002]
     }
