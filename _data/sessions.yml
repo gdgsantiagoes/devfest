@@ -22,3 +22,23 @@ Aprenderemos a:
   language: gl | es
   complexity: "Introducción" 
   presentation: "https://github.com/DanieldelRioJ/python-meme-bot"
+-
+  id: 002
+  title: "Os procesos de selección dende o outro lado: Todo o que necesitas saber"
+  description: "Nesta sesión falaremos de cómo se viven os proceso de selección desde ambas bandas: Empresa e candidatxs. Compartiremos experiencias e boas prácticas para que directamente o bordes na túa próxima entrevista 😎
+<p>
+Anímate a preguntar todas esas dúbidas que sempre tiveches e descobre:
+<ul>
+<li>CV nivel avanzado: Que poñer? 
+<li>Unha entrevista, dous puntos de vista: Qué responder e qué preguntar 🧐
+<li>“Xa te chamaremos”: Qué facer cando parece que nada funciona.
+</ul>
+<p>
+Se queres coñecer as entrañas da selección dende o outro lado, esperámoste!
+<p>
+<em>Orientado a estudantes e recén graduadxs de enxeñaría informática ou titulacións afíns.</em>
+"
+  subtype: AskMeAnything
+  speakers: [2]
+  language: gl | es
+  complexity: "Introducción" 

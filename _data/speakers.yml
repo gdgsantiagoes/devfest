@@ -10,3 +10,18 @@
     - { abbr: "Taller", title: "Taller online" }
   social: 
     - {name: "linkedin", link: "www.linkedin.com/in/daniel-del-rio-juncal"}
+-
+  id: 2
+  name: "Martina"
+  surname: "Freire Moure"
+  title: "HR & Talent Acquisition"
+  bio: "Despois de estudar Psicoloxía e especializarme en Psicoloxía do Traballo e as Organizacións, metinme de cheo no sector tecnolóxico de Galicia, onde selecciono perfís técnicos en SM Tecnología.
+<p>
+Este tempo no sector serviume para facerme unha idea dos casos de éxito e fracasos máis habituais nos procesos de selección. Agora, gustaríame compartir esa aprendizaxe co resto da comunidade, para que todos poidamos ter a mellor experiencia posible.
+ "
+  thumbnailUrl: MartinaFreireMoure.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "AskMeAnything", title: "AskMeAnything" }
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martina-freire-moure/"}
