@@ -25,3 +25,16 @@ Este tempo no sector serviume para facerme unha idea dos casos de éxito e fraca
     - { abbr: "AskMeAnything", title: "AskMeAnything" }
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/martina-freire-moure/"}
+-
+  id: 3
+  name: "Pedro"
+  surname: "Bueno Aldrey"
+  title: "Machine learning engineer"
+  bio: "Estudié Ingeniería Informática y he trabajado como desarrollador full-stack e ingeniero de ML, siendo este último mi puesto actual, realizando algoritmos y modelos de predicción en Inditex.
+ "
+  thumbnailUrl: PedroBueno.jpg
+  rockstar: true
+  ribbon:
+    - { abbr: "Taller", title: "Taller online" }
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-bueno-aldrey-42366b138/"}
