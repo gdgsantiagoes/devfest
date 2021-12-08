@@ -20,3 +20,14 @@
     	endTime: "19:00",
     	sessionIds: [002]
     }
+- 
+  date: "2021-12-16"
+  dateReadable: "16 Decembro"
+  tracks: 
+    - {title: "Taller online", color: "#ea4335"}
+  timeslots:
+    - {
+    	startTime: "19:00",
+    	endTime: "20:00",
+    	sessionIds: [003]
+    }
