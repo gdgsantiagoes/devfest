@@ -42,3 +42,28 @@ Se queres coñecer as entrañas da selección dende o outro lado, esperámoste!
   speakers: [2]
   language: gl | es
   complexity: "Introducción" 
+-
+  id: 003
+  title: "Introducción a modelos bayesianos con NumPyro"
+  description: "Conoce las posibilidades de la estadística bayesiana en el contexto del machine learning, y su aplicación práctica con NumPyro 📊🔥
+<p>
+A veces tienes que tomar decisiones importantes pero no tienes datos suficientes para dar una predicción certera. En esas situaciones una de las cosas que puedes probar es un <b>modelo bayesiano</b> que te permita reflejar esa incertidumbre en la salida del modelo.
+<p>
+La sesión incluirá una introducción teórica y una parte práctica. Durante esta última se explicará, escribirá y ejecutará código Python. Utilizaremos <b>NumPyro</b>, una librería de programación probabilística basada en JAX (un proyecto de investigación de Google), para los ejemplos.
+<p>
+<b>Conocimientos previos recomendados:</b>
+<ul>
+<li>Python intermedio
+<li>Estadística básica (teorema de Bayes, distribución...)
+<li>Cálculo básico (concepto de derivada, integral...)
+</ul>
+<p>
+<b>Requisitos previos:</b>
+<ul>
+<li>Tener instalado Docker: se proporcionará una imagen que incorpore las dependencias necesarias.
+</ul>
+"
+  subtype: Taller online
+  speakers: [3]
+  language: gl | es
+  complexity: "Introducción" 
