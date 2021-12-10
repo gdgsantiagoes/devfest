@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Connect", "Santiago de Compostela"'
 typeoutFallback: "Connect"
 heroButtons:
  - {id: "becomeSpeaker", link: "https://forms.gle/YeoP2Dm5Yg8RzKAJ8", text: "Ser poñente"}
- - {id: "buyTickets", link: "https://gdg.community.dev/events/details/google-gdg-santiago-presents-os-procesos-de-seleccion-dende-o-outro-lado-todo-o-que-necesitas-saber/", text: "Inscríbete gratis"}
+ - {id: "buyTickets", link: "https://gdg.community.dev/events/details/google-gdg-santiago-presents-devfest-connect-introduccion-a-modelos-bayesianos-con-numpyro/", text: "Inscríbete gratis"}
 buyTicketsTooltipText: "Os eventos sairán proximamente!"
 
 # About Block
@@ -101,8 +101,8 @@ latestNewsTitle: "Últimas novas"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 1
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Rand speaker 🤪"
+rockstarSpeakersButtonText: "Coñece a todes"
 
 # Location Block
 #locationBlockTitle: "Location"
