@@ -42,7 +42,7 @@ Se queres coñecer as entrañas da selección dende o outro lado, esperámoste!
   speakers: [2]
   language: gl | es
   complexity: "Introducción"
-  video: "https://youtu.be/ieKCXMeS67A"
+  video: "https://www.youtube.com/embed/ieKCXMeS67A"
 -
   id: 003
   title: "Introducción a modelos bayesianos con NumPyro"
@@ -68,5 +68,5 @@ La sesión incluirá una introducción teórica y una parte práctica. Durante e
   speakers: [3]
   language: gl | es
   complexity: "Introducción"
-  video: "https://youtu.be/QbHqN2MGbqY"
+  video: "https://www.youtube.com/embed/QbHqN2MGbqY"
   presentation: "https://github.com/petrusboniatus/bayesian-cars"
